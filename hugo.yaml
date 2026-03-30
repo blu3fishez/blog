@@ -7,6 +7,7 @@ module:
     - path: github.com/imfing/hextra
 
 summaryLength: 15  # 단어 수 기준 (기본값: 70)
+paginate: 5
 
 menu:
   main:
@@ -14,12 +15,12 @@ menu:
       pageRef: /tags
       weight: 2
     - name: Search
-      weight: 3
+      weight: 4
       params:
         type: search
     - name: RSS
-      url: /blog/index.xml
-      weight: 4
+      url: /index.xml
+      weight: 5
       params:
         icon: rss
 
