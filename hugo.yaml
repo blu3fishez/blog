@@ -7,7 +7,8 @@ module:
     - path: github.com/imfing/hextra
 
 summaryLength: 15  # 단어 수 기준 (기본값: 70)
-paginate: 5
+pagination:
+  pagerSize: 5
 
 menu:
   main:
