@@ -4,7 +4,7 @@ date: 2025-01-05
 categories:
   - Life
 tags:
-  - retrospect
+  - 회고
 image: 2025-01-05-2024년-회고-20250105014106877.webp
 ---
 
