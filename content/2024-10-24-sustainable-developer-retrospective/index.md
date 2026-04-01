@@ -4,7 +4,7 @@ date: 2024-10-24 11:52:14 +0900
 categories:
   - Boostcamp
 tags:
-  - retrospect
+  - 회고
 author:
 image: 2024-10-24-지속-가능한-개발자란-무엇일까-학습-스프린트-회고-20241024155923356.webp
 ---
