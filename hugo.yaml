@@ -40,6 +40,16 @@ params:
     default: system
     displayToggle: true
 
+  comments:
+    enable: true
+    type: giscus
+
+    giscus:
+      repo: blu3fishez/blog
+      repoId: R_kgDORm8s6g
+      category: General
+      categoryId: DIC_kwDORm8s6s4C52ve
+
   images:
     - /images/default-thumbnail.jpg
 
